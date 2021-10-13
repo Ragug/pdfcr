@@ -37,13 +37,12 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @nabiIanavab 🤩
 
-Join @nabiIanavab, for bot updates ♥️
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+
+Join @RG_bots, for bot updates ♥️
+
+
 '''
 		key = types.InlineKeyboardMarkup()
 		key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
